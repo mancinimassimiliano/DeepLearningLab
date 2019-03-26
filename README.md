@@ -1,2 +1,2 @@
 # DeepLearningLab
-Exercise for the deep learning course 
+A series of exercises to practice with PyTorch.
