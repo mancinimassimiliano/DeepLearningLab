@@ -2,7 +2,7 @@
 
 A series of Deep Learning exercises to practice with [PyTorch](https://pytorch.org/).
 
-Professor: [Elisa Ricci](http://elisaricci.eu/)
+Professor: [Elisa Ricci](https://scholar.google.ca/citations?user=xf1T870AAAAJ&hl=en)
 
 Lab Instructors:
   * [Massimiliano Mancini](https://mancinimassimiliano.github.io/) (Email: mancini@fbk.eu)
