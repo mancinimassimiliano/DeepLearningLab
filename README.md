@@ -15,8 +15,8 @@ N.B. Lab related queries should be directed to the Lab instructors.
 
 ## Programming Exercises
   * Lab1: Train a multi-layer perceptron (MLP) on MNIST
-    * [Build your very first Neural Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/myFirstNN.ipynb)
-    * [Visualize training dynamics with Tensorboard](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/myFirstNN_solution_with_vis.ipynb)
+    * [Build your very first Neural Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab1/myFirstNN.ipynb)
+    * [Visualize training dynamics with Tensorboard](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab1/myFirstNN_solution_with_vis.ipynb)
 
 ### Prerequisites
   * Python3
