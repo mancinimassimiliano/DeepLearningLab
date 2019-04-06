@@ -18,7 +18,7 @@ N.B. Lab related queries should be directed to the Lab instructors.
   * [Lab1: Train a multi-layer perceptron (MLP) on MNIST](https://github.com/mancinimassimiliano/DeepLearningLab/tree/master/Lab1)
     * [Build your very first Neural Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab1/myFirstNN.ipynb)
     * [Visualize training dynamics with Tensorboard](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab1/myFirstNN_solution_with_vis.ipynb)
-  * [Lab2: Train Convolutional Neural Network (CNN) for MNIST](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2)
+  * [Lab2: Train Convolutional Neural Networks (CNNs)](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2)
     * [MLP for classifying *translated* MNIST](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2/non_centered_mlp.ipynb)
     * [Train a LeNet-5 for MNIST classification](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2/convolutional_neural_networks.ipynb)
 
