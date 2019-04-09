@@ -21,7 +21,8 @@ N.B. Lab related queries should be directed to the Lab instructors.
   * [Lab2: Train Convolutional Neural Networks (CNNs)](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2)
     * [MLP for classifying *translated* MNIST](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2/non_centered_mlp.ipynb)
     * [Train a LeNet-5 for MNIST classification](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2/convolutional_neural_networks.ipynb)
-    * [Fine-tuning Alexnet](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2/finetune_alexnet.ipynb)
+  * [Lab3 Transfer Learning](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3)
+    * [Fine-tuning Alexnet](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/finetune_alexnet.ipynb)
 
 ### Prerequisites
   * Python3
