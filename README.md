@@ -23,6 +23,7 @@ N.B. Lab related queries should be directed to the Lab instructors.
     * [Train a LeNet-5 for MNIST classification](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab2/convolutional_neural_networks.ipynb)
   * [Lab3: Transfer Learning](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3)
     * [Fine-tuning Alexnet](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/finetune_alexnet.ipynb)
+    * [Batch Normalization from scratch](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/batch_normalization.ipynb)
 
 ### Prerequisites
   * Python3
