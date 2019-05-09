@@ -26,6 +26,6 @@ N.B. Lab related queries should be directed to the Lab instructors.
     * [Fine-tuning Alexnet](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/finetune_alexnet.ipynb)
     * [Batch Normalization from scratch](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/batch_normalization.ipynb)
     * [Unsupervised Domain Adaptation](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/domain_adaptation.ipynb)
- * [Lab3: Recurrent Neural Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab4)
+ * [Lab4: Recurrent Neural Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab4)
 ### Prerequisites
   * Python3
