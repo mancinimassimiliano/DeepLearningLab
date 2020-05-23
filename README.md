@@ -27,5 +27,6 @@ N.B. Lab related queries should be directed to the Lab instructors.
     * [Batch Normalization from scratch](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/batch_normalization.ipynb)
     * [Unsupervised Domain Adaptation](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab3/domain_adaptation.ipynb)
  * [Lab4: Recurrent Neural Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab4)
+ * [Lab5: Generative Adversarial Network](https://github.com/mancinimassimiliano/DeepLearningLab/blob/master/Lab5)
 ### Prerequisites
   * Python3
